@@ -17,5 +17,5 @@ public class Fibonacci {
             System.out.print(fib[i] +  " ");
         }
     }
- 
+ //kode telah terubah//
 }
